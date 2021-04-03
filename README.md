@@ -11,7 +11,7 @@
 * Nearest Neighbor Index Application
 
 ### **Last Mile Logistics Concept**
-[Imgur](https://i.imgur.com/9JXkWDR.jpg)
+![Imgur](https://i.imgur.com/9JXkWDR.jpg)
 #### **Problem Statement**
 Customers need to be home long time period for waiting for the parcel but they had to leave home for some reason or were going home when the delivery was made. So that the deliverers need to redelivery until the service success and let delivery cost will be high.
 
